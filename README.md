@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🌱 I’m learning software engineering
 - 📫 Email: hosizoraru@gmail.com
 - 🥰 Like juvenile
-- 📫 My Website : ![VoyagerのStarsky](starsky.earth)
+- 📫 My Website : [VoyagerのStarsky](starsky.earth)
 
