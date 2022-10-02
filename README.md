@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 - 🥰 Like juvenile
 - 📫 My Website : ![VoyagerのStarsky](starsky.earth)
 
-### ⛄ Genshin Impact
-![ReallySnow](https://genshin-card.getloli.com/48/77382217.png)
